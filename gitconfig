@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ryan.a.y.johnson@gmail.com
+	name = Ryan Johnson
